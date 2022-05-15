@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int sign,a,b;
+    int ,a,b;
+    char sign;
 
     cout<<"Enter The First Number :"<<endl;
     cin>>a;
