@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int ,a,b;
+    int a,b;
     char sign;
 
     cout<<"Enter The First Number :"<<endl;
